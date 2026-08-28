@@ -1,0 +1,1 @@
+import{j as o}from"./index-CtjG-zrM.js";const i=({children:e,wide:a,full:s,className:t=""})=>o.jsx("div",{className:`page-container ${a?"wide":""} ${s?"full":""} page-enter ${t}`,children:e});export{i as P};

@@ -1,0 +1,1 @@
+import{j as d}from"./index-CtjG-zrM.js";const p=({children:a,className:r="",style:t={},hover:e=!0,onClick:s})=>d.jsx("div",{className:`${e?"glass-card":"glass-panel"} ${r}`,style:{padding:20,cursor:s?"pointer":"default",...t},onClick:s,children:a});export{p as G};
